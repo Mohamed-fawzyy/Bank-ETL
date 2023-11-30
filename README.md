@@ -9,6 +9,14 @@ This project requires you to compile the list of the top 10 largest banks in the
 </p>
 <br>
 
+# Objectives📝
+* You have to complete the following tasks for this project
+  - Write a data extraction function to retrieve the relevant information from the required URL.
+  - Transform the available GDP information into 'Billion USD' from 'Million USD'.
+  - Load the transformed information to the required CSV file and as a database file.
+  - Run the required query on the database.
+  - Log the progress of the code with appropriate timestamps.
+
 ## 📦 Install
 
 - First of all, install the required Libraries for ETL:
